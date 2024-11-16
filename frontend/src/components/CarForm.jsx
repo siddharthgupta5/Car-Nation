@@ -152,3 +152,5 @@ const CarForm = () => {
     </div>
   );
 };
+
+export default CarForm;
