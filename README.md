@@ -67,7 +67,9 @@ cd ../frontend
 npm run dev
 
 ```
-### 5. Access the application: Visit http://localhost:5173 in your browser.
+### 5. Access the application: 
+
+Visit http://localhost:5173 in your browser.
 
 
 ## API Documentation
