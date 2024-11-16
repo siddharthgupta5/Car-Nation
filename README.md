@@ -24,7 +24,7 @@ Note - The application may take some time to open during the initial starting of
 - **Authentication**: JSON Web Tokens (JWT)
 - **Image Upload**: Multer, Cloudinary
 
-## Installation
+## Installation and Setup
 
 ### 1. Clone the repository:
 
